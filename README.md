@@ -29,7 +29,7 @@ library(asfathesaurus)
 head(asfathesaurus)
 
 # Write to CSV
-write.csv(asfathesaurus, file = thesaurus.csv)
+write.csv(asfathesaurus, file = "thesaurus.csv")
 ```
 
 ## Preview
